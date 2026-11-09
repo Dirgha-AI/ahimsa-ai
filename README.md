@@ -1,4 +1,4 @@
-# AHIMSA-AI (`AIA v1.1`)
+<h1 align="center">AHIMSA-AI (<code>AIA v1.1</code>)</h1>
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
