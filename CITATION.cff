@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use the Ahimsa Impact Assessment (AIA v1.1) or its 50-system and 20-historical-disasters benchmarks, please cite it using this metadata."
+title: "Ahimsa-by-Design (AIA v1.1): Dual-Axis Sociotechnical Evaluation of Non-Extraction and Affirmative Flourishing in AI Systems"
+version: 1.1.0
+date-released: "2026-11-09"
+license: MIT
+repository-code: "https://github.com/Dirgha-AI/ahimsa-ai"
+url: "https://github.com/Dirgha-AI/ahimsa-ai"
+authors:
+  - family-names: "Shah"
+    given-names: "Salik"
+    affiliation: "Dirgha AI, New Delhi, India"
+    website: "https://salikshah.com"
+keywords:
+  - "algorithmic-impact-assessment"
+  - "ai-safety"
+  - "ahimsa"
+  - "sarvodaya"
+  - "lokahi"
+  - "digital-public-infrastructure"
+  - "synthetic-humanism"
