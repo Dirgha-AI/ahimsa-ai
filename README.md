@@ -103,8 +103,8 @@ Evaluated across 20 documented real-world failures (`benchmark/real_world_disast
 
 ## Author & Citation
 
-* **Salik Shah** — Founder & Lead Systems Architect, Dirgha AI · Founding Editor, *Mithila Review* ([salikshah.com](https://salikshah.com) · [GitHub](https://github.com/Dirgha-AI))
-* **Stage 2 Runtime Protocol Companion:** [Dirgha-AI/lokahi](https://github.com/Dirgha-AI/lokahi) (with Co-PI **Sabin Ranjit**)
+* **Salik Shah** — Founder & Lead Systems Architect, Dirgha AI · Founding Editor, *Mithila Review* ([salikshah.com](https://salikshah.com) · [x.com/salik](https://x.com/salik) · [github.com/salikshah](https://github.com/salikshah))
+* **Stage 2 Runtime Protocol Companion:** [Dirgha-AI/lokahi](https://github.com/Dirgha-AI/lokahi)
 
 ## License
 
